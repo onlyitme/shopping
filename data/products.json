@@ -1,0 +1,644 @@
+{
+  "Categories": [
+    {
+      "id": 1,
+      "name": "Hat"
+    },
+    {
+      "id": 2,
+      "name": "Shirt"
+    },
+    {
+      "id": 3,
+      "name": "Trousers"
+    },
+    {
+      "id": 4,
+      "name": "Shoes"
+    },
+    {
+      "id": 5,
+      "name": "Backpack"
+    },
+    {
+      "id": 6,
+      "name": "Accessories"
+    },
+    {
+      "name": "Baokun1",
+      "id": 7
+    },
+    {
+      "name": "Hs",
+      "id": 8
+    }
+  ],
+  "Products": [
+    {
+      "id": 2,
+      "name": "Guangzhou sweater",
+      "price": 123,
+      "reduced_price": 99,
+      "image": "product-2.jpg",
+      "variants": [
+        {
+          "grams": 200
+        },
+        {
+          "weight": 0.2
+        },
+        {
+          "weight_unit": "kg"
+        },
+        {
+          "color": "pink"
+        },
+        {
+          "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "describe": "",
+      "views": 123,
+      "inventory": 123,
+      "solds": 123,
+      "created_at": "1234567890",
+      "edited_at": "",
+      "show": true,
+      "hot": false,
+      "tags": "",
+      "id_category": 2
+    },
+    {
+      "name": "Guangzhou sweater",
+      "price": "123344",
+      "reduced_price": "90",
+      "image": "",
+      "variants": [
+        {
+          "grams": 200
+        },
+        {
+          "weight": 0.2
+        },
+        {
+          "weight_unit": "kg"
+        },
+        {
+          "color": "pink"
+        },
+        {
+          "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "describe": "",
+      "views": 123,
+      "inventory": "123",
+      "solds": 123,
+      "created_at": "1234567890",
+      "edited_at": "",
+      "show": true,
+      "hot": false,
+      "tags": "",
+      "id_category": "2",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Microfiber Wool Scarf",
+      "price": 123,
+      "reduced_price": 70,
+      "image": "product-4.jpg",
+      "variants": [
+        {
+          "grams": 200
+        },
+        {
+          "weight": 0.2
+        },
+        {
+          "weight_unit": "kg"
+        },
+        {
+          "color": "pink"
+        },
+        {
+          "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "describe": "",
+      "views": 123,
+      "inventory": 123,
+      "solds": 123,
+      "created_at": "1234567890",
+      "edited_at": "",
+      "show": true,
+      "hot": false,
+      "tags": "",
+      "id_category": 6
+    },
+    {
+      "id": 5,
+      "name": "Men's Painted Hat",
+      "price": 123,
+      "reduced_price": 500,
+      "image": "product-5.jpg",
+      "variants": [
+        {
+          "grams": 200
+        },
+        {
+          "weight": 0.2
+        },
+        {
+          "weight_unit": "kg"
+        },
+        {
+          "color": "pink"
+        },
+        {
+          "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "describe": "",
+      "views": 123,
+      "inventory": 123,
+      "solds": 123,
+      "created_at": "1234567890",
+      "edited_at": "",
+      "show": true,
+      "hot": false,
+      "tags": "",
+      "id_category": 1
+    },
+    {
+      "id": 6,
+      "name": "Conrse Shirt",
+      "price": 123,
+      "reduced_price": 100,
+      "image": "product-6.jpg",
+      "variants": [
+        {
+          "grams": 200
+        },
+        {
+          "weight": 0.2
+        },
+        {
+          "weight_unit": "kg"
+        },
+        {
+          "color": "pink"
+        },
+        {
+          "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "describe": "",
+      "views": 123,
+      "inventory": 123,
+      "solds": 123,
+      "created_at": "1234567890",
+      "edited_at": "",
+      "show": true,
+      "hot": false,
+      "tags": "",
+      "id_category": 2
+    },
+    {
+      "id": 7,
+      "name": "Pure Pineapple",
+      "price": 123,
+      "reduced_price": 100,
+      "image": "product-7.jpg",
+      "variants": [
+        {
+          "grams": 200
+        },
+        {
+          "weight": 0.2
+        },
+        {
+          "weight_unit": "kg"
+        },
+        {
+          "color": "pink"
+        },
+        {
+          "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "describe": "",
+      "views": 123,
+      "inventory": 123,
+      "solds": 123,
+      "created_at": "1234567890",
+      "edited_at": "",
+      "show": true,
+      "hot": false,
+      "tags": "",
+      "id_category": 5
+    },
+    {
+      "name": "2 Layer Windbreaker",
+      "price": "123",
+      "reduced_price": "100",
+      "image": "",
+      "variants": [
+        {
+          "grams": 200
+        },
+        {
+          "weight": 0.2
+        },
+        {
+          "weight_unit": "kg"
+        },
+        {
+          "color": "pink"
+        },
+        {
+          "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "describe": "",
+      "views": 123,
+      "inventory": 123,
+      "solds": 123,
+      "created_at": "1234567890",
+      "edited_at": "",
+      "show": true,
+      "hot": false,
+      "tags": "",
+      "id_category": 2,
+      "id": 8
+    },
+    {
+      "id": 9,
+      "name": "Converse Shoes",
+      "price": 123,
+      "reduced_price": 100,
+      "image": "product-9.jpg",
+      "variants": [
+        {
+          "grams": 200
+        },
+        {
+          "weight": 0.2
+        },
+        {
+          "weight_unit": "kg"
+        },
+        {
+          "color": "pink"
+        },
+        {
+          "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "describe": "",
+      "views": 123,
+      "inventory": 123,
+      "solds": 123,
+      "created_at": "1234567890",
+      "edited_at": "",
+      "show": true,
+      "hot": false,
+      "tags": "",
+      "id_category": 4
+    },
+    {
+      "name": "áđá",
+      "price": "231",
+      "reduced_price": "321312",
+      "image": "",
+      "variants": [
+        {
+          "grams": 200
+        },
+        {
+          "weight": 0.2
+        },
+        {
+          "weight_unit": "kg"
+        },
+        {
+          "color": "pink"
+        },
+        {
+          "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "describe": "",
+      "views": 123,
+      "inventory": "123",
+      "solds": 123,
+      "created_at": "1234567890",
+      "edited_at": "",
+      "show": true,
+      "hot": false,
+      "tags": "",
+      "id_category": "5",
+      "id": 10
+    },
+    {
+      "name": "áđásdfsdfsdfsdf",
+      "price": "34234234",
+      "reduced_price": "321312",
+      "image": "",
+      "variants": [
+        {
+          "grams": 200
+        },
+        {
+          "weight": 0.2
+        },
+        {
+          "weight_unit": "kg"
+        },
+        {
+          "color": "pink"
+        },
+        {
+          "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "describe": "",
+      "views": 123,
+      "inventory": "123",
+      "solds": 123,
+      "created_at": "1234567890",
+      "edited_at": "",
+      "show": true,
+      "hot": false,
+      "tags": "",
+      "id_category": "5",
+      "id": 11
+    }
+  ],
+  "Orders": [
+    {
+      "name": "a",
+      "phone": "1231231231",
+      "street": "110 Cô Giang, Phường Cô Giang, Quận 1",
+      "status": "open",
+      "created_at": "April 20, 2021 3:06 PM",
+      "id": 1
+    },
+    {
+      "name": "ba",
+      "phone": "1231231231",
+      "street": "23-25 Nguyễn Huy Tự, Phường DaKao, Quận 1",
+      "status": "confirmed",
+      "created_at": "April 20, 2021 3:06 PM",
+      "id": 2
+    },
+    {
+      "name": "a",
+      "phone": "0983456789",
+      "street": "Đường Xuân Thủy, phường Thảo Điền",
+      "status": "cancelled",
+      "created_at": "April 20, 2021 3:06 PM",
+      "id": 3
+    },
+    {
+      "name": "Văn Đạt",
+      "phone": "0912345678",
+      "street": "123 Nguyễn Phúc Chu",
+      "created_at": "April 20, 2021 3:06 PM",
+      "status": "conpleted",
+      "id": 4
+    },
+    {
+      "name": "baokun",
+      "phone": "0912345678",
+      "street": "12 nguyen Ngád",
+      "created_at": "April 20, 2021 3:06 PM",
+      "status": "open",
+      "id": 5
+    },
+    {
+      "name": "Bao",
+      "phone": "0913245456",
+      "street": "123 ABC",
+      "created_at": "April 20, 2021 3:06 PM",
+      "status": "open",
+      "id": 6
+    },
+    {
+      "name": "sađâsd",
+      "phone": "0912312312",
+      "street": "áđâsd",
+      "created_at": "April 22, 2021 3:15 PM",
+      "status": "open",
+      "id": 7
+    }
+  ],
+  "Orders_details": [
+    {
+      "order_id": 1,
+      "product_id": 2,
+      "quantity": 5,
+      "unit_price": 99,
+      "id": 1
+    },
+    {
+      "order_id": 1,
+      "product_id": 6,
+      "x": 1,
+      "unit_price": 100,
+      "id": 2
+    },
+    {
+      "order_id": 2,
+      "product_id": 4,
+      "quantity": 3,
+      "unit_price": 70,
+      "id": 3
+    },
+    {
+      "order_id": 2,
+      "product_id": 2,
+      "quantity": 3,
+      "unit_price": 99,
+      "id": 4
+    },
+    {
+      "order_id": 3,
+      "product_id": 2,
+      "quantity": 2,
+      "unit_price": 99,
+      "id": 5
+    },
+    {
+      "order_id": 4,
+      "product_id": 9,
+      "quantity": 1,
+      "unit_price": 100,
+      "id": 6
+    },
+    {
+      "order_id": 4,
+      "product_id": 4,
+      "quantity": 3,
+      "unit_price": 70,
+      "id": 7
+    },
+    {
+      "order_id": 5,
+      "product_id": 2,
+      "quantity": 2,
+      "unit_price": 99,
+      "id": 8
+    },
+    {
+      "order_id": 6,
+      "product_id": 2,
+      "quantity": 1,
+      "unit_price": 99,
+      "id": 9
+    },
+    {
+      "order_id": 7,
+      "product_id": 1,
+      "quantity": 3,
+      "unit_price": 99,
+      "id": 10
+    },
+    {
+      "order_id": 7,
+      "product_id": 2,
+      "quantity": 1,
+      "unit_price": 99,
+      "id": 11
+    }
+  ],
+  "Comments": [
+    {
+      "id": 1,
+      "name": "Bảo KUN",
+      "content": "Nice Product",
+      "datetime": "Apr 22, 2021 1:35 AM",
+      "id_product": 1
+    },
+    {
+      "id": 2,
+      "name": "Tiền Thưởng",
+      "content": "hello",
+      "datetime": "Apr 13, 2021 2:35 AM",
+      "id_product": 1
+    },
+    {
+      "id": 3,
+      "name": "Đăng Quang",
+      "content": "Bad Product",
+      "datetime": "Apr 12, 2021 3:35 AM",
+      "id_product": 1
+    },
+    {
+      "id": 4,
+      "name": "Đăng Quang",
+      "content": "Bad Product",
+      "datetime": "Apr 12, 2021 3:35 AM",
+      "id_product": 2
+    },
+    {
+      "name": "q",
+      "content": "",
+      "datetime": "Apr 22, 2021 1:59 PM",
+      "id_product": "2",
+      "id": 5
+    },
+    {
+      "name": "Lại là Bảo nè",
+      "content": "Sản phẩm rất tốt",
+      "datetime": "Apr 22, 2021 2:00 PM",
+      "id_product": "2",
+      "id": 7
+    },
+    {
+      "name": "Không Phải Bảo",
+      "content": "Sản phẩm tốt !",
+      "datetime": "Apr 22, 2021 2:08 PM",
+      "id_product": "2",
+      "id": 8
+    },
+    {
+      "name": "a",
+      "content": "áđa",
+      "datetime": "Apr 22, 2021 2:09 PM",
+      "id_product": "2",
+      "id": 9
+    },
+    {
+      "name": "áđá",
+      "content": "áđá",
+      "datetime": "Apr 22, 2021 2:09 PM",
+      "id_product": "2",
+      "id": 10
+    },
+    {
+      "name": "áđá",
+      "content": "áđá",
+      "datetime": "Apr 22, 2021 2:10 PM",
+      "id_product": "2",
+      "id": 11
+    },
+    {
+      "name": "Khang nè",
+      "content": "áđas",
+      "datetime": "Apr 22, 2021 3:09 PM",
+      "id_product": "1",
+      "id": 12
+    }
+  ]
+}
